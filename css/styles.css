@@ -1,0 +1,52 @@
+html {
+    background-color: #acd8e5;
+}
+
+.title {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+#paragraph2 {
+    width: 580px;
+    background-color: #fff;
+    border: 3px solid #146b1a;
+    padding: 20px;
+    margin: 20px;
+}
+
+.blue {
+    color: #ffffff;
+    background-color: #080080;
+    border: 1px solid #000000;
+    padding: 20px;
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #aea8a8;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+td {
+    background-color: #ffffff;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+a {
+    color: blue
+}
+
+.red {
+    color: #ff0000;
+}
